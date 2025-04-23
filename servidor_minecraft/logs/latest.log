@@ -1817,3 +1817,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Apr2025 23:01:46.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to 8850.500000, 81.000000, -3862.500000]
 [23Apr2025 23:02:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Gamerule keepInventory is now set to: false]
 [23Apr2025 23:12:32.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
+[23Apr2025 23:13:59.619] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1730 ms
+[23Apr2025 23:16:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Survival Mode]
+[23Apr2025 23:20:54.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to rain & thunder]
+[23Apr2025 23:21:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Zombie
+[23Apr2025 23:21:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made All_D08 a server operator]
+[23Apr2025 23:24:01.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
+[23Apr2025 23:25:38.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Parrots and the Bats]

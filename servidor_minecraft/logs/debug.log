@@ -7691,3 +7691,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Apr2025 23:10:00.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Apr2025 23:10:00.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Apr2025 23:12:32.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
+[23Apr2025 23:13:59.619] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1730 ms
+[23Apr2025 23:15:00.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:15:00.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:16:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Survival Mode]
+[23Apr2025 23:20:00.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:20:00.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:20:54.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to rain & thunder]
+[23Apr2025 23:21:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Zombie
+[23Apr2025 23:21:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made All_D08 a server operator]
+[23Apr2025 23:24:01.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
+[23Apr2025 23:25:00.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:25:00.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:25:38.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Parrots and the Bats]
+[23Apr2025 23:30:00.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:30:00.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
