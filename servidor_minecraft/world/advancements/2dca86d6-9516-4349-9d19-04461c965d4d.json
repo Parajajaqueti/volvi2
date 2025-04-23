@@ -2226,6 +2226,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-23 23:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-23 22:54:04 +0000"
@@ -2337,6 +2343,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-04-23 23:37:32 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-04-23 23:40:25 +0000"
     },
     "done": true
   },
@@ -2871,6 +2883,12 @@
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-04-23 23:29:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-04-23 23:54:00 +0000"
     },
     "done": true
   },
