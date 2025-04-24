@@ -1,3 +1,5 @@
 [24Apr2025 00:00:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Andesite Age]
 [24Apr2025 00:05:23.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Bonk!]
 [24Apr2025 00:16:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Zombie
+[24Apr2025 00:26:53.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Timed out
+[24Apr2025 00:26:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
