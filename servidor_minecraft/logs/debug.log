@@ -7723,3 +7723,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Apr2025 00:00:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Andesite Age]
 [24Apr2025 00:05:00.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 00:05:00.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 00:05:23.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Bonk!]
+[24Apr2025 00:10:00.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 00:10:00.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 00:15:00.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 00:15:00.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

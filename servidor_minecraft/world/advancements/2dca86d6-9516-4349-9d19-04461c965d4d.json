@@ -1410,7 +1410,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2025-04-22 02:57:02 +0000"
+      "glow_berries": "2025-04-22 02:57:02 +0000",
+      "sugar_cane": "2025-04-24 00:09:40 +0000"
     },
     "done": false
   },
@@ -2298,6 +2299,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-04-24 00:06:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-23 23:32:57 +0000"
@@ -2535,6 +2542,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-23 22:54:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-04-24 00:06:19 +0000"
     },
     "done": true
   },
@@ -3342,6 +3355,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-24 00:13:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-23 22:38:48 +0000"
@@ -3480,6 +3499,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-04-24 00:06:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-23 23:56:00 +0000"
@@ -3507,6 +3532,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-23 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-04-24 00:05:23 +0000"
     },
     "done": true
   },
@@ -3720,6 +3751,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-04-24 00:06:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-04-23 23:37:32 +0000"
@@ -3765,6 +3802,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-04-23 23:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-04-24 00:06:19 +0000"
     },
     "done": true
   },
@@ -3825,6 +3868,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-23 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-04-24 00:06:19 +0000"
     },
     "done": true
   },
