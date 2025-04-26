@@ -1008,3 +1008,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 06:25:35.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
 [26Apr2025 06:25:43.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
 [26Apr2025 06:30:56.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Best Friends Forever]
+[26Apr2025 06:38:18.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[26Apr2025 06:38:18.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[26Apr2025 06:38:18.141] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 06:39:22.592] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3077372[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.245.170.161:54957) lost connection: Disconnected
+[26Apr2025 06:39:32.345] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[26Apr2025 06:39:43.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.245.170.161:42757] logged in with entity id 57228 at (-2063.3414424918165, 79.875, 1984.0088113006798)
+[26Apr2025 06:39:43.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[26Apr2025 06:40:57.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[26Apr2025 06:40:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[26Apr2025 06:45:49.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@337a43b3[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.245.170.161:56535) lost connection: Disconnected
+[26Apr2025 06:46:26.187] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fba8608[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.245.170.161:53277) lost connection: Disconnected
+[26Apr2025 06:46:35.987] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dc8a2e[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.245.170.161:38395) lost connection: Disconnected
+[26Apr2025 06:46:48.230] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[26Apr2025 06:46:52.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.245.170.161:45539] logged in with entity id 58501 at (-2075.8334804435167, 59.0, 1941.7888185764418)
+[26Apr2025 06:46:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
