@@ -829,6 +829,7 @@
       "minecraft:spider": "2025-04-17 06:12:02 +0000",
       "minecraft:piglin_brute": "2025-04-20 21:03:52 +0000",
       "minecraft:creeper": "2025-04-17 19:58:23 +0000",
+      "minecraft:slime": "2025-04-26 07:38:34 +0000",
       "minecraft:phantom": "2025-04-18 02:34:46 +0000",
       "minecraft:zombified_piglin": "2025-04-20 21:25:34 +0000",
       "minecraft:witch": "2025-04-20 06:23:01 +0000",
@@ -6633,6 +6634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 07:38:34 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
       "rat_upgrade_basic": "2025-04-26 07:00:23 +0000"
@@ -6651,6 +6658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 07:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-26 06:21:52 +0000"
@@ -6660,6 +6673,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 07:38:34 +0000"
     },
     "done": true
   },
