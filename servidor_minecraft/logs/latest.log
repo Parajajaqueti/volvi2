@@ -975,3 +975,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 05:24:44.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
 [26Apr2025 05:24:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
 [26Apr2025 05:25:57.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
+[26Apr2025 05:52:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown block type 'minecraft:frass-block'
+[26Apr2025 05:52:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...62 -10223 frass-block replace<--[HERE]
+[26Apr2025 05:53:16.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown block type 'minecraft:grass-block'
+[26Apr2025 05:53:16.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...62 -10223 grass-block replace<--[HERE]
+[26Apr2025 05:53:50.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Successfully filled 2 block(s)]
