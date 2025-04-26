@@ -1031,3 +1031,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 07:17:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to Mandester]
 [26Apr2025 07:48:12.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to Mandester]
 [26Apr2025 07:48:30.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Mariachi?]
+[26Apr2025 07:59:39.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[26Apr2025 07:59:39.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[26Apr2025 07:59:44.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[26Apr2025 07:59:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[26Apr2025 07:59:49.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Apr2025 07:59:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Apr2025 07:59:49.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Apr2025 07:59:49.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Apr2025 07:59:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Apr2025 07:59:49.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Apr2025 07:59:49.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Apr2025 07:59:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Apr2025 07:59:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Apr2025 07:59:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Apr2025 07:59:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Apr2025 07:59:50.012] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
