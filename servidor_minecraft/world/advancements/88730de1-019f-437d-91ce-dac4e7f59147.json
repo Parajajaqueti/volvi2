@@ -6628,6 +6628,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-04-26 07:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"

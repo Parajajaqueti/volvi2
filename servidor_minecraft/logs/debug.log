@@ -7093,3 +7093,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 07:44:57.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Apr2025 07:48:12.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to Mandester]
 [26Apr2025 07:48:30.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Mariachi?]
+[26Apr2025 07:49:57.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 07:49:57.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 07:54:57.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 07:54:57.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
