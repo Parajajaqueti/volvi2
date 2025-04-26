@@ -1023,3 +1023,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 06:46:48.230] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
 [26Apr2025 06:46:52.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.245.170.161:45539] logged in with entity id 58501 at (-2075.8334804435167, 59.0, 1941.7888185764418)
 [26Apr2025 06:46:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[26Apr2025 06:55:50.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/57608, l='ServerLevel[world]', x=-2072.30, y=57.05, z=1939.70] died, message: 'Librarian drowned'

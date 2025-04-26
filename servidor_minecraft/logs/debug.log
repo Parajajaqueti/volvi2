@@ -7061,3 +7061,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 06:46:52.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.245.170.161:45539] logged in with entity id 58501 at (-2075.8334804435167, 59.0, 1941.7888185764418)
 [26Apr2025 06:46:52.460] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@48c2ed71 into net.minecraft.network.Connection@54d77d47
 [26Apr2025 06:46:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[26Apr2025 06:49:57.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 06:49:57.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 06:54:57.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 06:54:57.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 06:55:50.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/57608, l='ServerLevel[world]', x=-2072.30, y=57.05, z=1939.70] died, message: 'Librarian drowned'
