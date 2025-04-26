@@ -1007,3 +1007,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 06:25:35.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
 [26Apr2025 06:25:35.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
 [26Apr2025 06:25:43.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[26Apr2025 06:30:56.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Best Friends Forever]
