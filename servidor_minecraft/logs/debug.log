@@ -7066,3 +7066,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Apr2025 06:54:57.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 06:54:57.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Apr2025 06:55:50.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/57608, l='ServerLevel[world]', x=-2072.30, y=57.05, z=1939.70] died, message: 'Librarian drowned'
+[26Apr2025 06:59:57.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 06:59:57.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 07:00:23.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Pest Control]
+[26Apr2025 07:03:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Iron Golem
+[26Apr2025 07:04:52.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to Mandester]
+[26Apr2025 07:04:57.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 07:04:57.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
