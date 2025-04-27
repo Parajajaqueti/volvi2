@@ -1,76 +1,75 @@
-[27Apr2025 21:00:43.811] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[27Apr2025 21:00:43.815] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[27Apr2025 21:00:44.852] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[27Apr2025 21:00:44.914] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/volvi2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[27Apr2025 21:00:45.245] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[27Apr2025 21:00:45.248] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Apr2025 21:00:45.249] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Apr2025 21:00:45.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Apr2025 21:00:45.553] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[27Apr2025 21:00:45.555] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[27Apr2025 21:00:47.936] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[27Apr2025 21:00:48.061] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[27Apr2025 21:00:48.339] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 78 options available, 0 override(s) found
-[27Apr2025 21:00:48.615] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[27Apr2025 21:00:48.620] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[27Apr2025 21:00:48.620] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
-[27Apr2025 21:00:49.166] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[27Apr2025 21:00:49.167] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[27Apr2025 21:00:49.248] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
-[27Apr2025 21:00:49.248] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
-[27Apr2025 21:00:49.250] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
-[27Apr2025 21:00:49.251] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
-[27Apr2025 21:00:49.364] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
-[27Apr2025 21:00:49.367] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin
-[27Apr2025 21:00:49.369] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
-[27Apr2025 21:00:49.370] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin
-[27Apr2025 21:00:49.375] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
-[27Apr2025 21:00:49.376] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin
-[27Apr2025 21:00:49.381] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
-[27Apr2025 21:00:49.383] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin
-[27Apr2025 21:00:49.389] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
-[27Apr2025 21:00:49.392] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin
-[27Apr2025 21:00:49.395] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
-[27Apr2025 21:00:49.395] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
-[27Apr2025 21:00:49.396] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
-[27Apr2025 21:00:49.397] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin
-[27Apr2025 21:00:49.400] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
-[27Apr2025 21:00:49.403] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin
-[27Apr2025 21:00:49.407] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[27Apr2025 21:00:49.412] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
-[27Apr2025 21:00:49.414] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[27Apr2025 21:00:49.414] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
-[27Apr2025 21:00:49.416] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[27Apr2025 21:00:49.416] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
-[27Apr2025 21:00:49.418] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
-[27Apr2025 21:00:49.418] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
-[27Apr2025 21:00:49.423] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[27Apr2025 21:00:49.425] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
-[27Apr2025 21:00:49.541] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[27Apr2025 21:00:56.880] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[27Apr2025 21:54:49.386] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[27Apr2025 21:54:49.392] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[27Apr2025 21:54:53.630] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Apr2025 21:54:53.778] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/volvi2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[27Apr2025 21:54:54.231] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[27Apr2025 21:54:54.233] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Apr2025 21:54:54.234] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Apr2025 21:54:54.235] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/volvi2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Apr2025 21:54:54.747] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[27Apr2025 21:54:54.749] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[27Apr2025 21:54:57.737] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Apr2025 21:54:57.837] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[27Apr2025 21:54:58.115] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 78 options available, 0 override(s) found
+[27Apr2025 21:54:58.306] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[27Apr2025 21:54:58.307] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[27Apr2025 21:54:58.307] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
+[27Apr2025 21:54:58.915] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[27Apr2025 21:54:58.915] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[27Apr2025 21:54:59.018] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
+[27Apr2025 21:54:59.018] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
+[27Apr2025 21:54:59.020] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[27Apr2025 21:54:59.020] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[27Apr2025 21:54:59.135] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
+[27Apr2025 21:54:59.135] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin
+[27Apr2025 21:54:59.142] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
+[27Apr2025 21:54:59.142] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin
+[27Apr2025 21:54:59.145] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
+[27Apr2025 21:54:59.145] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin
+[27Apr2025 21:54:59.148] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
+[27Apr2025 21:54:59.148] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin
+[27Apr2025 21:54:59.153] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
+[27Apr2025 21:54:59.153] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin
+[27Apr2025 21:54:59.156] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[27Apr2025 21:54:59.157] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
+[27Apr2025 21:54:59.159] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
+[27Apr2025 21:54:59.159] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin
+[27Apr2025 21:54:59.161] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
+[27Apr2025 21:54:59.162] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin
+[27Apr2025 21:54:59.164] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[27Apr2025 21:54:59.164] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[27Apr2025 21:54:59.166] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[27Apr2025 21:54:59.166] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
+[27Apr2025 21:54:59.168] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[27Apr2025 21:54:59.168] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
+[27Apr2025 21:54:59.170] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[27Apr2025 21:54:59.170] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
+[27Apr2025 21:54:59.172] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[27Apr2025 21:54:59.172] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[27Apr2025 21:54:59.536] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[27Apr2025 21:55:09.487] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[27Apr2025 21:00:59.336] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[27Apr2025 21:01:00.070] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[27Apr2025 21:01:01.760] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[27Apr2025 21:01:01.761] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[27Apr2025 21:01:06.985] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[27Apr2025 21:01:07.072] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/volvi2/servidor_minecraft/config/create_central_kitchen-common.toml is not correct. Correcting
-[27Apr2025 21:01:07.073] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key automation.boostingCookerList was corrected from [farmersdelight:cooking_pot, farmersdelight:skillet, miners_delight:copper_pot] to its default, [farmersdelight:cooking_pot, farmersdelight:skillet]. 
-[27Apr2025 21:01:07.073] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/volvi2/servidor_minecraft/config/create_central_kitchen-common.toml is not correct. Correcting
-[27Apr2025 21:01:07.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[27Apr2025 21:01:07.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[27Apr2025 21:01:07.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Apr2025 21:01:07.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[27Apr2025 21:01:07.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[27Apr2025 21:01:08.082] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[27Apr2025 21:01:08.152] [main/INFO] [journeymap/]: Initializing Packet Registries
-[27Apr2025 21:01:12.700] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Apr2025 21:01:15.706] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvi2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/assets/.mcassetsroot' uses unexpected schema
-[27Apr2025 21:01:15.707] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvi2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/data/.mcassetsroot' uses unexpected schema
-[27Apr2025 21:01:15.797] [main/INFO] [com.simibubi.create.Create/]: Created 169 recipes which will be injected into the game
-[27Apr2025 21:01:15.807] [main/INFO] [com.simibubi.create.Create/]: Created 2 tags which will be injected into the game
-[27Apr2025 21:01:17.005] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[27Apr2025 21:01:17.676] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dungeons_and_combat:chests/blazing_fortress_loot
+[27Apr2025 21:55:12.654] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[27Apr2025 21:55:13.512] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[27Apr2025 21:55:15.430] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[27Apr2025 21:55:15.430] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[27Apr2025 21:55:22.425] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[27Apr2025 21:55:22.542] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/volvi2/servidor_minecraft/config/create_central_kitchen-common.toml is not correct. Correcting
+[27Apr2025 21:55:22.542] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key automation.boostingCookerList was corrected from [farmersdelight:cooking_pot, farmersdelight:skillet, miners_delight:copper_pot] to its default, [farmersdelight:cooking_pot, farmersdelight:skillet]. 
+[27Apr2025 21:55:23.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[27Apr2025 21:55:23.729] [main/INFO] [journeymap/]: Initializing Packet Registries
+[27Apr2025 21:55:23.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[27Apr2025 21:55:23.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Apr2025 21:55:24.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[27Apr2025 21:55:24.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[27Apr2025 21:55:24.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[27Apr2025 21:55:29.805] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Apr2025 21:55:34.172] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvi2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/assets/.mcassetsroot' uses unexpected schema
+[27Apr2025 21:55:34.173] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/volvi2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23153!/data/.mcassetsroot' uses unexpected schema
+[27Apr2025 21:55:34.332] [main/INFO] [com.simibubi.create.Create/]: Created 169 recipes which will be injected into the game
+[27Apr2025 21:55:34.348] [main/INFO] [com.simibubi.create.Create/]: Created 2 tags which will be injected into the game
+[27Apr2025 21:55:36.395] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[27Apr2025 21:55:37.801] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dungeons_and_combat:chests/blazing_fortress_loot
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dungeons_and_combat:deleted_mod_element'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -122,7 +121,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[27Apr2025 21:01:17.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
+[27Apr2025 21:55:38.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -151,7 +150,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:17.871] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
+[27Apr2025 21:55:38.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -180,7 +179,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:17.874] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword
+[27Apr2025 21:55:38.117] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword
 com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23158!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23158!/:?]
@@ -213,7 +212,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:17.996] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
+[27Apr2025 21:55:38.268] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -242,7 +241,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.000] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
+[27Apr2025 21:55:38.278] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -271,7 +270,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.001] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
+[27Apr2025 21:55:38.279] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -300,7 +299,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.008] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
+[27Apr2025 21:55:38.290] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -329,7 +328,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
+[27Apr2025 21:55:38.302] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -358,7 +357,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.020] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
+[27Apr2025 21:55:38.311] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
 com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:185) ~[forge-1.20.1-47.3.7-universal.jar%23158!/:?]
@@ -391,7 +390,7 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.021] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
+[27Apr2025 21:55:38.312] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
 com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -429,7 +428,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.052] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
+[27Apr2025 21:55:38.370] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -458,7 +457,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
+[27Apr2025 21:55:38.480] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -496,7 +495,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
+[27Apr2025 21:55:38.537] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -525,7 +524,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
+[27Apr2025 21:55:38.575] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -554,7 +553,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.117] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
+[27Apr2025 21:55:38.577] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -583,7 +582,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.119] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
+[27Apr2025 21:55:38.578] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -612,7 +611,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd
+[27Apr2025 21:55:38.588] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd
 com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -650,7 +649,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.135] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
+[27Apr2025 21:55:38.614] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -679,7 +678,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.137] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_sa:andesite_exoskeleton_recipe
+[27Apr2025 21:55:38.615] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_sa:andesite_exoskeleton_recipe
 com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:185) ~[forge-1.20.1-47.3.7-universal.jar%23158!/:?]
@@ -713,7 +712,7 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.140] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
+[27Apr2025 21:55:38.621] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -742,7 +741,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.141] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
+[27Apr2025 21:55:38.622] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:glassworking'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -771,7 +770,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:gla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.150] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
+[27Apr2025 21:55:38.639] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -800,12 +799,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.155] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[27Apr2025 21:01:18.158] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[27Apr2025 21:01:18.325] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2987 advancements
-[27Apr2025 21:01:18.336] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[27Apr2025 21:01:18.342] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[27Apr2025 21:01:18.350] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[27Apr2025 21:55:38.656] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[27Apr2025 21:55:38.658] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[27Apr2025 21:55:38.934] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2987 advancements
+[27Apr2025 21:55:38.949] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[27Apr2025 21:55:38.957] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[27Apr2025 21:55:38.974] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -866,8 +865,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.352] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
-[27Apr2025 21:01:18.353] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[27Apr2025 21:55:38.976] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[27Apr2025 21:55:38.977] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23153!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -928,64 +927,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Apr2025 21:01:18.354] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
-[27Apr2025 21:01:20.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[27Apr2025 21:01:20.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Apr2025 21:01:20.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Apr2025 21:01:20.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Apr2025 21:01:20.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Apr2025 21:01:21.012] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27Apr2025 21:01:21.102] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[27Apr2025 21:01:21.103] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[27Apr2025 21:01:21.104] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[27Apr2025 21:01:21.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Apr2025 21:01:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Apr2025 21:01:28.025] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.054] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.136] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.306] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:28.739] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:29.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 21:01:29.735] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[27Apr2025 21:01:30.269] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5534 ms
-[27Apr2025 21:01:30.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.172s)! For help, type "help"
-[27Apr2025 21:01:30.315] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27Apr2025 21:01:30.349] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[27Apr2025 21:03:33.752] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
-[27Apr2025 21:03:39.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:34489] logged in with entity id 144 at (5837.958766383056, 64.0, -6099.325270049684)
-[27Apr2025 21:03:39.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
-[27Apr2025 21:03:42.532] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/190, l='ServerLevel[world]', x=5837.46, y=67.00, z=-6036.47]
-[27Apr2025 21:03:44.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47dbd0bb[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.170.168.177:44441) lost connection: Disconnected
-[27Apr2025 21:03:46.409] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/403, l='ServerLevel[world]', x=6016.24, y=66.54, z=-6007.91]
-[27Apr2025 21:03:49.019] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
-[27Apr2025 21:03:59.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.170.168.177:32889] logged in with entity id 413 at (-2231.4395486421217, 63.0, 1777.4952912441452)
-[27Apr2025 21:03:59.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
-[27Apr2025 21:04:01.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[27Apr2025 21:05:04.439] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
-[27Apr2025 21:05:13.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/1390, l='ServerLevel[world]', x=5970.62, y=64.00, z=-5792.30]
-[27Apr2025 21:05:13.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:34889] logged in with entity id 1392 at (-1776.4858433935292, 72.0, 2136.2777260936077)
-[27Apr2025 21:05:13.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
-[27Apr2025 21:09:53.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
-[27Apr2025 21:09:53.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
-[27Apr2025 21:15:16.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5780, y=72, z=-5875} BlockPos{x=5778, y=70, z=-5876}
-[27Apr2025 21:15:17.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5777, y=72, z=-5873} BlockPos{x=5776, y=70, z=-5874}
-[27Apr2025 21:22:34.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5794, y=74, z=-5798} BlockPos{x=5794, y=72, z=-5796}
-[27Apr2025 21:22:34.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5794, y=74, z=-5798} BlockPos{x=5794, y=72, z=-5796}
-[27Apr2025 21:23:15.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was blown up by Creeper
-[27Apr2025 21:24:56.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Disconnected
-[27Apr2025 21:24:56.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
-[27Apr2025 21:24:57.062] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[27Apr2025 21:25:01.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
-[27Apr2025 21:25:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
-[27Apr2025 21:27:19.561] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
-[27Apr2025 21:27:25.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:46835] logged in with entity id 10684 at (5801.946917800325, 70.0, -5830.667641737668)
-[27Apr2025 21:27:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
-[27Apr2025 21:27:37.263] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46a525db[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.170.168.177:56605) lost connection: Disconnected
-[27Apr2025 21:27:40.053] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
-[27Apr2025 21:27:56.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.170.168.177:60953] logged in with entity id 10893 at (-2231.210345840978, 131.0, 1779.4580886983679)
-[27Apr2025 21:27:56.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
-[27Apr2025 21:29:44.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O moved too quickly! 1.6919063365785405,-11.78915481065519,-0.007003683032053232
+[27Apr2025 21:55:38.978] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[27Apr2025 21:55:42.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[27Apr2025 21:55:42.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Apr2025 21:55:42.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Apr2025 21:55:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Apr2025 21:55:42.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Apr2025 21:55:42.583] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Apr2025 21:55:42.706] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Apr2025 21:55:42.706] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Apr2025 21:55:42.707] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Apr2025 21:55:42.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Apr2025 21:55:44.561] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[27Apr2025 21:55:44.630] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[27Apr2025 21:55:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Apr2025 21:55:49.793] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:49.830] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:49.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:49.948] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:49.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:50.143] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:50.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:51.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:51.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:52.285] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:52.646] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2025 21:55:53.219] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[27Apr2025 21:55:53.652] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[27Apr2025 21:55:54.143] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[27Apr2025 21:55:54.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[27Apr2025 21:55:55.143] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[27Apr2025 21:55:55.321] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7679 ms
+[27Apr2025 21:55:55.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.623s)! For help, type "help"
+[27Apr2025 21:55:55.434] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Apr2025 21:55:55.478] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[27Apr2025 21:56:47.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@53815914[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.170.168.177:47883) lost connection: Disconnected
+[27Apr2025 21:57:32.412] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
+[27Apr2025 21:57:37.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:44389] logged in with entity id 144 at (-1775.544563703876, 72.0, 2142.380602377628)
+[27Apr2025 21:57:37.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
+[27Apr2025 21:57:58.050] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a38f88c[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.170.168.177:53627) lost connection: Disconnected
+[27Apr2025 21:58:02.383] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[27Apr2025 21:58:13.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.170.168.177:44925] logged in with entity id 438 at (-2228.228339375914, 138.0, 1779.7212822251004)
+[27Apr2025 21:58:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[27Apr2025 21:59:26.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to YamadaH2O]
+[27Apr2025 22:00:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to YamadaH2O]
+[27Apr2025 22:02:40.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Take Aim]
