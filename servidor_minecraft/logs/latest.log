@@ -972,3 +972,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Apr2025 21:59:26.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to YamadaH2O]
 [27Apr2025 22:00:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to YamadaH2O]
 [27Apr2025 22:02:40.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Take Aim]
+[27Apr2025 22:05:28.289] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/3168, l='ServerLevel[world]', x=-2271.50, y=52.00, z=1771.50]
+[27Apr2025 22:11:18.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Eye of The Storm]

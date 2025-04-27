@@ -6534,3 +6534,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Apr2025 22:00:55.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 22:00:55.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 22:02:40.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Take Aim]
+[27Apr2025 22:05:28.289] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/3168, l='ServerLevel[world]', x=-2271.50, y=52.00, z=1771.50]
+[27Apr2025 22:05:55.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:05:55.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:10:55.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:10:55.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:11:18.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Eye of The Storm]
