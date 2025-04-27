@@ -986,3 +986,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Apr2025 22:49:33.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 1.622570872363848
 [27Apr2025 23:02:06.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [No Step on Snake]
 [27Apr2025 23:31:10.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to YamadaH2O]
+[27Apr2025 23:49:56.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Disconnected
+[27Apr2025 23:49:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
+[27Apr2025 23:55:27.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 fell from a high place
