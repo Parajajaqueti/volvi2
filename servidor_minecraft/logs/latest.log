@@ -973,3 +973,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Apr2025 21:09:53.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
 [27Apr2025 21:15:16.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5780, y=72, z=-5875} BlockPos{x=5778, y=70, z=-5876}
 [27Apr2025 21:15:17.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5777, y=72, z=-5873} BlockPos{x=5776, y=70, z=-5874}
+[27Apr2025 21:22:34.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5794, y=74, z=-5798} BlockPos{x=5794, y=72, z=-5796}
+[27Apr2025 21:22:34.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5794, y=74, z=-5798} BlockPos{x=5794, y=72, z=-5796}
+[27Apr2025 21:23:15.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was blown up by Creeper
+[27Apr2025 21:24:56.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Disconnected
+[27Apr2025 21:24:56.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
+[27Apr2025 21:24:57.062] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Apr2025 21:25:01.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[27Apr2025 21:25:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[27Apr2025 21:27:19.561] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
+[27Apr2025 21:27:25.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:46835] logged in with entity id 10684 at (5801.946917800325, 70.0, -5830.667641737668)
+[27Apr2025 21:27:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
+[27Apr2025 21:27:37.263] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46a525db[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.170.168.177:56605) lost connection: Disconnected
+[27Apr2025 21:27:40.053] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[27Apr2025 21:27:56.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.170.168.177:60953] logged in with entity id 10893 at (-2231.210345840978, 131.0, 1779.4580886983679)
+[27Apr2025 21:27:56.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[27Apr2025 21:29:44.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O moved too quickly! 1.6919063365785405,-11.78915481065519,-0.007003683032053232
