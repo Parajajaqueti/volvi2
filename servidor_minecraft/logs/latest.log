@@ -975,3 +975,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Apr2025 22:05:28.289] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/3168, l='ServerLevel[world]', x=-2271.50, y=52.00, z=1771.50]
 [27Apr2025 22:11:18.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Eye of The Storm]
 [27Apr2025 22:17:38.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Surge Protector]
+[27Apr2025 22:35:57.948] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[27Apr2025 22:36:10.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:48659] logged in with entity id 11288 at (-1745.7334363663788, 71.0, 2145.010108042923)
+[27Apr2025 22:36:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[27Apr2025 22:38:11.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1497, l='ServerLevel[world]', x=-1987.63, y=62.42, z=1921.31] died, message: 'Librarian was slain by Guster'
+[27Apr2025 22:38:14.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1495, l='ServerLevel[world]', x=-1985.93, y=62.42, z=1917.69] died, message: 'Librarian was slain by Guster'
+[27Apr2025 22:45:21.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14543, l='ServerLevel[world]', x=-1966.45, y=73.00, z=2324.31] died, message: 'Villager hit the ground too hard whilst trying to escape Guster'

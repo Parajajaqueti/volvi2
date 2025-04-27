@@ -4097,6 +4097,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 22:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 22:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-27 22:20:15 +0000"
@@ -4106,6 +4118,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-04-27 22:17:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-27 22:35:41 +0000"
     },
     "done": true
   },
@@ -4160,6 +4178,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-27 21:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-27 22:37:44 +0000"
     },
     "done": true
   },
