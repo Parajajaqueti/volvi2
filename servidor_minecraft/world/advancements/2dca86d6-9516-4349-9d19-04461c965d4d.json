@@ -4061,6 +4061,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-04-27 23:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-27 22:20:15 +0000"
