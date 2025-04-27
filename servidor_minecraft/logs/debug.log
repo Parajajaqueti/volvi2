@@ -6677,3 +6677,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Apr2025 21:06:32.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 21:09:53.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
 [27Apr2025 21:09:53.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[27Apr2025 21:11:32.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:11:32.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 21:15:16.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5780, y=72, z=-5875} BlockPos{x=5778, y=70, z=-5876}
+[27Apr2025 21:15:17.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5777, y=72, z=-5873} BlockPos{x=5776, y=70, z=-5874}
+[27Apr2025 21:16:32.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:16:32.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
