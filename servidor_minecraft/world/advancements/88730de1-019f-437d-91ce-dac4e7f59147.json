@@ -6875,5 +6875,11 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_new_god_of_the_sun": {
+    "criteria": {
+      "the_new_god_of_the_sun_0": "2025-04-28 22:33:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
