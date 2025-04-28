@@ -965,3 +965,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 20:38:12.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:45049] logged in with entity id 1979 at (-1486.0884008058647, 73.0, 3654.8904499570135)
 [28Apr2025 20:38:12.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
 [28Apr2025 20:42:52.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was blown up by Creeper
+[28Apr2025 20:56:49.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1981, l='ServerLevel[world]', x=-1477.63, y=69.90, z=3601.76] died, message: 'Villager was slain by Zombie'
