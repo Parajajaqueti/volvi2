@@ -985,3 +985,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 04:55:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Complex Curiosities]
 [28Apr2025 04:57:35.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [It Belongs in a Museum]
 [28Apr2025 04:57:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Once Upon a Cave]
+[28Apr2025 05:01:25.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Complex Curiosities]
+[28Apr2025 05:01:56.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Disconnected
+[28Apr2025 05:01:56.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
+[28Apr2025 05:01:59.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[28Apr2025 05:01:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[28Apr2025 05:02:20.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Apr2025 05:02:20.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Apr2025 05:02:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Apr2025 05:02:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Apr2025 05:02:20.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Apr2025 05:02:20.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Apr2025 05:02:20.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Apr2025 05:02:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Apr2025 05:02:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Apr2025 05:02:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Apr2025 05:02:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Apr2025 05:02:20.858] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
