@@ -6869,5 +6869,11 @@
     },
     "done": true
   },
+  "dungeons_and_combat:old_friends": {
+    "criteria": {
+      "old_friends_0": "2025-04-28 22:21:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
