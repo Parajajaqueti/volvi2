@@ -969,3 +969,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 03:05:20.164] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d8352b5[id=<null>,name=JARAX23,properties={},legacy=false] (/127.79.217.172:35367) lost connection: Disconnected
 [28Apr2025 03:05:47.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e75bdcf[id=<null>,name=JARAX23,properties={},legacy=false] (/127.79.217.172:40289) lost connection: Disconnected
 [28Apr2025 03:05:50.602] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[28Apr2025 03:06:07.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:44107] logged in with entity id 36619 at (-1778.0780339835394, 72.5625, 2131.5871180951776)
+[28Apr2025 03:06:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[28Apr2025 03:15:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to All_D08]
