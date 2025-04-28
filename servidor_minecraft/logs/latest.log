@@ -968,3 +968,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 22:58:25.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Disconnected
 [28Apr2025 22:58:25.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
 [28Apr2025 22:59:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [We do a little trolling...]
+[28Apr2025 23:01:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [It's an Emu!!!]
+[28Apr2025 23:02:14.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[28Apr2025 23:02:14.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
