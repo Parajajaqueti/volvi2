@@ -6622,39 +6622,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-04-26 07:48:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-26 07:38:34 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
-    "criteria": {
-      "rat_upgrade_basic": "2025-04-26 07:00:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"
+      "has_chicken": "2025-04-26 06:21:52 +0000"
     },
     "done": true
   },
@@ -6664,15 +6634,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
-      "has_slime_ball": "2025-04-26 07:38:34 +0000"
+      "rat_upgrade_basic": "2025-04-26 07:00:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_chicken": "2025-04-26 06:21:52 +0000"
+      "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-26 07:07:57 +0000"
     },
     "done": true
   },
@@ -6682,15 +6664,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-04-26 07:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 07:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 07:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-26 07:38:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+  "alexsmobs:alexsmobs/maraca": {
     "criteria": {
-      "has_cobbled_deepslate_slab": "2025-04-26 07:33:12 +0000"
+      "maraca": "2025-04-26 07:48:30 +0000"
     },
     "done": true
   },
