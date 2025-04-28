@@ -6518,3 +6518,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 20:38:12.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:45049] logged in with entity id 1979 at (-1486.0884008058647, 73.0, 3654.8904499570135)
 [28Apr2025 20:38:12.925] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7ebc5191 into net.minecraft.network.Connection@6ad081f
 [28Apr2025 20:38:12.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
+[28Apr2025 20:38:46.757] [Server thread/DEBUG] [mixin/]: Mixing PressingBehaviourMixin from sliceanddice.mixins.json into com.simibubi.create.content.kinetics.press.PressingBehaviour
+[28Apr2025 20:38:46.757] [Server thread/DEBUG] [mixin/]: sliceanddice.mixins.json:PressingBehaviourMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[28Apr2025 20:39:11.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 20:39:11.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 20:42:52.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was blown up by Creeper
+[28Apr2025 20:44:11.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 20:44:11.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
