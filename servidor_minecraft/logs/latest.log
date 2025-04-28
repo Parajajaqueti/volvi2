@@ -955,3 +955,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 01:14:48.900] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
 [28Apr2025 01:14:54.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:47797] logged in with entity id 148 at (-1251.300000011921, -40.0, 2119.699999988079)
 [28Apr2025 01:14:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[28Apr2025 01:41:18.631] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
+[28Apr2025 01:41:24.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:44779] logged in with entity id 6421 at (-2052.103869283889, 63.0, 1955.599832835358)
+[28Apr2025 01:41:24.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
