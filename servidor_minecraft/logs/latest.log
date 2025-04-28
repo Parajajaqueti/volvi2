@@ -960,3 +960,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 01:41:24.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
 [28Apr2025 01:44:12.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4526, l='ServerLevel[world]', x=-2072.50, y=59.53, z=1939.70] died, message: 'Librarian drowned'
 [28Apr2025 01:44:22.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported All_D08 to Mandester]
+[28Apr2025 02:15:52.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported All_D08 to Mandester]
+[28Apr2025 02:16:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
