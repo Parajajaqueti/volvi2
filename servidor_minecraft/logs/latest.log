@@ -971,3 +971,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 21:44:45.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.3877739794552326
 [28Apr2025 21:44:45.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.41970513043156643
 [28Apr2025 21:44:45.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.4484431655489516
+[28Apr2025 21:51:23.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the time to 13000]
+[28Apr2025 21:57:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Iron Golem
