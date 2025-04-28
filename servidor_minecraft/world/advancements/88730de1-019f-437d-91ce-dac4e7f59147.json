@@ -6712,15 +6712,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-28 21:26:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_jungle_trapdoor": "2025-04-28 21:12:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-28 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-28 21:26:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-04-28 21:12:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-28 21:32:27 +0000"
     },
     "done": true
   },
@@ -6733,6 +6757,12 @@
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_acacia_trapdoor": "2025-04-28 21:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-28 21:22:31 +0000"
     },
     "done": true
   },
