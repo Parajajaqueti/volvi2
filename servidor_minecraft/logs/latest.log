@@ -963,3 +963,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 02:15:52.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported All_D08 to Mandester]
 [28Apr2025 02:16:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
 [28Apr2025 02:43:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Wheels of Destruction]
+[28Apr2025 02:48:47.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was processed by Crushing Wheels

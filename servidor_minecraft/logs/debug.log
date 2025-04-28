@@ -6561,3 +6561,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 02:43:23.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 02:43:23.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Apr2025 02:43:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Wheels of Destruction]
+[28Apr2025 02:48:23.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 02:48:23.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 02:48:47.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was processed by Crushing Wheels
+[28Apr2025 02:53:23.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 02:53:23.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
