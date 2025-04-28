@@ -974,3 +974,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 03:15:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to All_D08]
 [28Apr2025 03:22:16.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
 [28Apr2025 03:22:16.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[28Apr2025 03:27:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Phantom
+[28Apr2025 03:27:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Set the weather to clear]
+[28Apr2025 03:35:30.498] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[28Apr2025 03:35:36.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:57139] logged in with entity id 50800 at (-1212.3469450010546, 132.0, 3170.1185590991195)
+[28Apr2025 03:35:36.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
