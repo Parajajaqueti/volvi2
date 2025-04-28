@@ -246,6 +246,7 @@
       "minecraft:skeleton": "2025-04-22 03:35:51 +0000",
       "minecraft:spider": "2025-04-22 02:23:22 +0000",
       "minecraft:creeper": "2025-04-27 20:08:51 +0000",
+      "minecraft:phantom": "2025-04-28 03:02:24 +0000",
       "minecraft:cave_spider": "2025-04-22 03:29:22 +0000",
       "minecraft:piglin": "2025-04-22 03:07:38 +0000",
       "minecraft:zombie": "2025-04-22 03:22:26 +0000"
@@ -4350,6 +4351,12 @@
       "0": "2025-04-28 02:48:51 +0000"
     },
     "done": false
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-04-28 02:54:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/lead": {
     "criteria": {
