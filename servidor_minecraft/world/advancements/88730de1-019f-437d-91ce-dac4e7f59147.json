@@ -6145,6 +6145,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "pasta_with_meatballs": "2025-04-20 08:02:15 +0000",
+      "chicken_soup": "2025-04-28 22:41:32 +0000",
       "pasta_with_mutton_chop": "2025-04-28 22:08:53 +0000"
     },
     "done": false
