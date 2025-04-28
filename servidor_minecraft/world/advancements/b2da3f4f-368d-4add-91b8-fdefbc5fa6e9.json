@@ -6111,6 +6111,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-04-28 03:43:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-28 03:27:25 +0000"
