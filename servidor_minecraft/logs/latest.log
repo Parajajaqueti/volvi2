@@ -967,3 +967,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 20:42:52.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was blown up by Creeper
 [28Apr2025 20:56:49.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1981, l='ServerLevel[world]', x=-1477.63, y=69.90, z=3601.76] died, message: 'Villager was slain by Zombie'
 [28Apr2025 21:31:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester fell from a high place
+[28Apr2025 21:44:09.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to All_D08]
+[28Apr2025 21:44:45.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.3877739794552326
+[28Apr2025 21:44:45.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.41970513043156643
+[28Apr2025 21:44:45.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.4484431655489516
