@@ -6740,3 +6740,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Apr2025 23:55:27.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 fell from a high place
 [27Apr2025 23:55:55.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 23:55:55.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 00:00:55.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 00:00:55.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 00:05:55.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 00:05:55.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 00:06:13.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[28Apr2025 00:06:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
