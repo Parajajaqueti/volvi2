@@ -6082,6 +6082,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-28 03:25:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-28 03:27:25 +0000"
@@ -6109,12 +6115,6 @@
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-28 03:27:25 +0000"
-    },
-    "done": true
-  },
-  "create:windmill": {
-    "criteria": {
-      "0": "2025-04-28 03:43:04 +0000"
     },
     "done": true
   },
@@ -6202,9 +6202,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "create:windmill": {
     "criteria": {
-      "has_copper_backpack": "2025-04-28 03:25:08 +0000"
+      "0": "2025-04-28 03:43:04 +0000"
     },
     "done": true
   },
