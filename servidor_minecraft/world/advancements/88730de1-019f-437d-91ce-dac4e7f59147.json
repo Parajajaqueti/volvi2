@@ -6912,6 +6912,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-04-29 21:48:01 +0000"
+    },
+    "done": true
+  },
   "create:display_link": {
     "criteria": {
       "0": "2025-04-29 21:35:34 +0000"
