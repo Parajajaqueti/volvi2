@@ -1,3 +1,18 @@
 [30Apr2025 00:27:21.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
 [30Apr2025 00:41:48.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Survival Mode]
 [30Apr2025 00:42:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
+[30Apr2025 00:43:40.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Survival Mode]
+[30Apr2025 00:48:35.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[30Apr2025 00:48:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[30Apr2025 00:48:51.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Apr2025 00:48:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Apr2025 00:48:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Apr2025 00:48:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Apr2025 00:48:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Apr2025 00:48:52.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Apr2025 00:48:52.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Apr2025 00:48:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Apr2025 00:48:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Apr2025 00:48:52.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Apr2025 00:48:52.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Apr2025 00:48:52.676] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
