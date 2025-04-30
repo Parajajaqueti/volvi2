@@ -308,6 +308,7 @@
       "sweet_berries": "2025-04-22 03:37:57 +0000",
       "cooked_beef": "2025-04-22 02:31:12 +0000",
       "beef": "2025-04-22 02:23:44 +0000",
+      "baked_potato": "2025-04-30 23:00:09 +0000",
       "porkchop": "2025-04-27 21:19:25 +0000",
       "apple": "2025-04-27 21:36:17 +0000",
       "potato": "2025-04-28 21:08:36 +0000",
@@ -4683,6 +4684,18 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-04-30 22:59:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-30 23:00:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-04-30 21:56:01 +0000"
@@ -4706,6 +4719,18 @@
       "chicken_soup": "2025-04-30 21:56:01 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-04-30 22:59:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-30 23:00:04 +0000"
+    },
+    "done": true
   },
   "sliceanddice:recipes/misc/sprinkler": {
     "criteria": {

@@ -1181,3 +1181,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Apr2025 22:37:27.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:33683] logged in with entity id 43324 at (-2079.699999988079, 59.0, 1945.4722880292918)
 [30Apr2025 22:37:27.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
 [30Apr2025 22:50:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
+[30Apr2025 22:54:14.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[30Apr2025 22:54:14.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
