@@ -6292,5 +6292,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-30 21:42:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

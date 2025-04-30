@@ -7014,21 +7014,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
-    "criteria": {
-      "has_refill_upgrade": "2025-04-30 03:59:39 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-30 03:23:38 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
-    "criteria": {
-      "has_tool_swapper_upgrade": "2025-04-30 03:49:16 +0000"
     },
     "done": true
   },
@@ -7047,6 +7035,24 @@
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-04-30 03:27:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2025-04-30 03:49:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
+    "criteria": {
+      "has_refill_upgrade": "2025-04-30 03:59:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-04-30 21:49:18 +0000"
     },
     "done": true
   },
