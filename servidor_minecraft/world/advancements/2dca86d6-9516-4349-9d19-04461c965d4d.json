@@ -4689,6 +4689,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-04-30 22:47:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-30 21:56:01 +0000"
@@ -4700,6 +4706,12 @@
       "chicken_soup": "2025-04-30 21:56:01 +0000"
     },
     "done": false
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-04-30 22:38:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
