@@ -970,3 +970,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Apr2025 21:27:04.879] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
 [30Apr2025 21:27:08.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:45273] logged in with entity id 4809 at (-1735.3673731115193, 73.16610926093821, 2058.9301920430025)
 [30Apr2025 21:27:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[30Apr2025 21:32:23.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -5.1580866280996815,0.16610926093821377,8.765868266008965
+[30Apr2025 21:32:32.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -9.114140791863747,-0.757002463247801,4.5533319008845865
+[30Apr2025 21:33:28.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -9.387940674017045,2.252203340253729,-3.164805195904137
+[30Apr2025 21:33:55.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! 9.61191802411031,-2.0146178540372404,3.145507752219146
+[30Apr2025 21:39:32.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -8.119750904012335,-0.1199608614270602,-5.89349860241191
+[30Apr2025 21:39:51.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! 9.155591278889915,0.0,4.3215664866611405
+[30Apr2025 21:40:28.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -1.9620090195537614,0.0,-9.910808606049159
+[30Apr2025 21:40:39.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Timed out
+[30Apr2025 21:40:39.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[30Apr2025 21:40:55.457] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[30Apr2025 21:40:58.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:44223] logged in with entity id 10313 at (-1735.6906472908443, 72.0, 2035.812372657645)
+[30Apr2025 21:40:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
