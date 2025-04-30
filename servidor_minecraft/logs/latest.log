@@ -1183,3 +1183,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Apr2025 22:50:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
 [30Apr2025 22:54:14.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
 [30Apr2025 22:54:14.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[30Apr2025 23:07:42.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[30Apr2025 23:10:04.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Into Fire]
+[30Apr2025 23:12:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Into Fire]
+[30Apr2025 23:13:25.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 tried to swim in lava to escape Straddler

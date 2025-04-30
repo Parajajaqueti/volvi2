@@ -243,6 +243,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-30 23:11:19 +0000",
       "minecraft:skeleton": "2025-04-22 03:35:51 +0000",
       "minecraft:spider": "2025-04-22 02:23:22 +0000",
       "minecraft:creeper": "2025-04-27 20:08:51 +0000",
@@ -4690,6 +4691,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-04-30 23:06:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-04-30 23:00:04 +0000"
@@ -4735,6 +4742,12 @@
   "sliceanddice:recipes/misc/sprinkler": {
     "criteria": {
       "has_pipe": "2025-04-30 22:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-04-30 23:09:40 +0000"
     },
     "done": true
   },
