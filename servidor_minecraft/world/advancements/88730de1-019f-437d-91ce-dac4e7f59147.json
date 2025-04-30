@@ -7008,5 +7008,23 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-30 03:23:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-30 03:23:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-30 03:23:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
