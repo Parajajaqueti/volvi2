@@ -956,3 +956,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Apr2025 21:11:57.781] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
 [30Apr2025 21:12:04.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:39241] logged in with entity id 143 at (-1482.9966925042877, 72.0, 3657.300000011921)
 [30Apr2025 21:12:04.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
+[30Apr2025 21:21:15.419] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[30Apr2025 21:21:25.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:51851] logged in with entity id 2397 at (-1745.8083388996452, 72.0, 2087.3525717321727)
+[30Apr2025 21:21:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[30Apr2025 21:24:55.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Timed out
+[30Apr2025 21:24:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[30Apr2025 21:25:19.613] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[30Apr2025 21:25:23.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:37189] logged in with entity id 4041 at (-1736.1085146039768, 72.0, 2090.8197831095267)
+[30Apr2025 21:25:23.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[30Apr2025 21:26:05.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[30Apr2025 21:26:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[30Apr2025 21:26:58.475] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@447afd03[id=<null>,name=JARAX23,properties={},legacy=false] (/127.79.217.172:59657) lost connection: Disconnected
+[30Apr2025 21:27:04.879] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[30Apr2025 21:27:08.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:45273] logged in with entity id 4809 at (-1735.3673731115193, 73.16610926093821, 2058.9301920430025)
+[30Apr2025 21:27:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
